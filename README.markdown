@@ -1,6 +1,6 @@
 EasyAccounts is an accounting and inventory control package written in CA-Clipper 5.2. It runs well using DOSBox.
 
-![EasyAccounts screenshot](https://raw.githubusercontent.com/jasim/old-webby-homepage/master/site/content/images/ea_screenshot.png)
+![EasyAccounts screenshot](https://raw.githubusercontent.com/jasim/EasyAccounts/master/ea_screenshot.png)
 
 You'll need to have a bunch of third party libraries (listed in SRC/EA.LNK) to build it form source. Fortunately they are now available freely from [The Oasis][1]
 
